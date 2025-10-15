@@ -8,7 +8,7 @@ O site foi criado com **HTML5**, **CSS3** e **JavaScript puro**, utilizando téc
 ## 🌐 Demonstração
 
 🔗 [Acesse o Portfólio Online]([(https://spdnetweb.sp1.br.saveincloud.net.br/Portifolio/)])  
-*([https://spdnetweb.sp1.br.saveincloud.net.br/Portifolio/])*
+*https://spdnetweb.sp1.br.saveincloud.net.br/Portifolio/*
 
 ---
 
